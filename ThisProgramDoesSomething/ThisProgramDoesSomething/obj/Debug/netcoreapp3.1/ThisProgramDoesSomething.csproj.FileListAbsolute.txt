@@ -1,0 +1,13 @@
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\bin\Debug\netcoreapp3.1\ThisProgramDoesSomething.exe
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\bin\Debug\netcoreapp3.1\ThisProgramDoesSomething.deps.json
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\bin\Debug\netcoreapp3.1\ThisProgramDoesSomething.runtimeconfig.json
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\bin\Debug\netcoreapp3.1\ThisProgramDoesSomething.runtimeconfig.dev.json
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\bin\Debug\netcoreapp3.1\ThisProgramDoesSomething.dll
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\bin\Debug\netcoreapp3.1\ThisProgramDoesSomething.pdb
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\obj\Debug\netcoreapp3.1\ThisProgramDoesSomething.csprojAssemblyReference.cache
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\obj\Debug\netcoreapp3.1\ThisProgramDoesSomething.AssemblyInfoInputs.cache
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\obj\Debug\netcoreapp3.1\ThisProgramDoesSomething.AssemblyInfo.cs
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\obj\Debug\netcoreapp3.1\ThisProgramDoesSomething.csproj.CoreCompileInputs.cache
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\obj\Debug\netcoreapp3.1\ThisProgramDoesSomething.dll
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\obj\Debug\netcoreapp3.1\ThisProgramDoesSomething.pdb
+Y:\VisualStudio code\ThisProgramDoesSomething\ThisProgramDoesSomething\obj\Debug\netcoreapp3.1\ThisProgramDoesSomething.genruntimeconfig.cache
